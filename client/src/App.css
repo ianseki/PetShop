@@ -1,0 +1,36 @@
+.App {
+  display: flex;
+  margin: 20px;
+}
+
+table {
+  margin: auto;
+  border: 1px solid black
+}
+
+thead {
+  background-color: lightgrey;
+}
+
+form {
+  display: flex;
+  padding: 5px;
+  border: 1px solid black;
+}
+
+.column {
+  margin: 5px;
+}
+
+th {
+  text-align: left;
+  padding: 5px;
+}
+
+tr {
+  margin: 10px;
+}
+
+.skills {
+  display: flex;
+}
